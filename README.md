@@ -68,14 +68,12 @@ Companion code for the *Introduction to Large Language Models* book — hands-on
   </picture>
 </a>
 
-## 📫 Reach me
-
-✉️ [zitago121@gmail.com](mailto:zitago121@gmail.com) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=OH3TJPEAAAAJ&hl=en)
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zita-Go/Zita-Go/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zita-Go/Zita-Go/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zita-Go/Zita-Go/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 📫 Reach me
+
+✉️ [zitago121@gmail.com](mailto:zitago121@gmail.com) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=OH3TJPEAAAAJ&hl=en)
