@@ -2,10 +2,10 @@
 
 # Hi, I'm Guoqiang Zhang 👋
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&color=58A6FF&lines=I+build+open-source+tools+for+LLM+developers;Researching+RLHF+%26+LLM+code+generation;Teaching+LLMs+to+write+fast+CUDA+kernels">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&color=0969DA&lines=I+build+open-source+tools+for+LLM+developers;Researching+RLHF+%26+LLM+code+generation;Teaching+LLMs+to+write+fast+CUDA+kernels" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&color=0969DA&lines=I+build+open-source+tools+for+LLM+developers;Researching+RLHF+%26+LLM+code+generation;Teaching+LLMs+to+write+fast+CUDA+kernels" alt="I build open-source tools for LLM developers · Researching RLHF & LLM code generation · Teaching LLMs to write fast CUDA kernels">
   </picture>
 </a>
 
@@ -23,16 +23,16 @@
 
 A searchable catalog & auto-curator of AI agent skills — find, install and manage skills for Claude Code / Codex from one CLI.
 
-![Stars](https://img.shields.io/github/stars/Zita-Go/Skills-Atlas?style=flat&logo=github&label=stars) `JavaScript`
+<img src="https://img.shields.io/github/stars/Zita-Go/Skills-Atlas?style=flat&logo=github&label=stars" alt="Skills-Atlas stars"> `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📦 [intro-llm-code](https://github.com/intro-llm/intro-llm-code)
 
-Companion code for the *Introduction to Large Language Models* book — hands-on notebooks from attention to RLHF, maintained with the [intro-llm](https://github.com/intro-llm) org.
+Companion code for the *Introduction to Large Language Models* book — hands-on notebooks from attention to RLHF, co-maintained with the [intro-llm](https://github.com/intro-llm) org.
 
-![Stars](https://img.shields.io/github/stars/intro-llm/intro-llm-code?style=flat&logo=github&label=stars) `Python`
+<img src="https://img.shields.io/github/stars/intro-llm/intro-llm-code?style=flat&logo=github&label=stars" alt="intro-llm-code stars"> `Python`
 
 </td>
 </tr>
@@ -58,13 +58,13 @@ Companion code for the *Introduction to Large Language Models* book — hands-on
 <a href="https://github.com/Zita-Go">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zita-Go&show_icons=true&theme=dark&rank_icon=github">
-    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Zita-Go&show_icons=true&rank_icon=github" alt="GitHub stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zita-Go&show_icons=true&rank_icon=github" alt="GitHub stats">
   </picture>
 </a>
 <a href="https://github.com/Zita-Go">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zita-Go&layout=compact&langs_count=8&card_width=320&theme=dark">
-    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zita-Go&layout=compact&langs_count=8&card_width=320" alt="Top languages">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zita-Go&layout=compact&langs_count=8&card_width=320" alt="Top languages">
   </picture>
 </a>
 
