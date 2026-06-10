@@ -57,14 +57,14 @@ Companion code for the *Introduction to Large Language Models* book — hands-on
 
 <a href="https://github.com/Zita-Go">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zita-Go&show_icons=true&theme=dark&rank_icon=github">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zita-Go&show_icons=true&rank_icon=github" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zita-Go&show_icons=true&theme=dark&rank_icon=github&cache_seconds=21600">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zita-Go&show_icons=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats">
   </picture>
 </a>
 <a href="https://github.com/Zita-Go">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zita-Go&layout=compact&langs_count=8&card_width=320&theme=dark">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zita-Go&layout=compact&langs_count=8&card_width=320" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zita-Go&layout=compact&langs_count=8&card_width=320&theme=dark&cache_seconds=21600">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zita-Go&layout=compact&langs_count=8&card_width=320&cache_seconds=21600" alt="Top languages">
   </picture>
 </a>
 
